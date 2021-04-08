@@ -1,0 +1,9 @@
+name: "Olivero OMG"
+description: "Custom theme to allow for some overrides to Olivero"
+type: theme
+core_version_requirement: ^8.8 || ^9
+
+base theme: "olivero"
+
+libraries:
+  - oliveromg/variables

@@ -1,0 +1,7 @@
+/* 
+  Adding variables here will override Olivero's defaults.
+*/
+
+:root {
+  --color--blue-30: #ff0000; /* Turns blue 30 to red */
+}
